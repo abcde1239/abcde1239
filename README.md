@@ -1,4 +1,11 @@
-## Hi there 👋
+🐰Intermediate front-end ? Maybe .
+🖥Development & O&M(not start).
+😄Pixel Rabbit Member.
+⚔️Battle with 🦋.
+📮nwzxxabcde@gmail.com.
+🏠 Developing...
+📖 Developing...
+
 
 <!--
 **abcde1239/abcde1239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
