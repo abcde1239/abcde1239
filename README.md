@@ -1,5 +1,5 @@
 🐰Intermediate front-end ? Maybe . \
-🖥Development & O&M(not start).\
+🖥Development & O&M(starter).\
 😄Pixel Rabbit Member.\
 ⚔️Battle with 🦋.\
 📮nwzxxabcde@gmail.com.\
