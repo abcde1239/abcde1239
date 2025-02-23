@@ -4,7 +4,7 @@
 ⚔️Battle with 🦋.\
 📮nwzxxabcde@gmail.com.\
 🏠 Developing...\
-📖 Developing...\
+📖 Developing...
 
 
 <!--
