@@ -5,7 +5,7 @@
 📮nwzxxabcde@gmail.com.\
 🏠 Developing...\
 📖 Developing...
-
+### <img src="https://github-readme-stats.vercel.app/api?username=abcde1239&count_private=true&show_icons=true&text_color=032030&icon_color=005792&title_color=005792&bg_color=f6f6e9" align="right">
 
 <!--
 **abcde1239/abcde1239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
